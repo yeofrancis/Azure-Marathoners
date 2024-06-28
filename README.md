@@ -1,4 +1,4 @@
-# :wave: Welcome to the Azure Marathoners !!
+# :wave: Welcome to the Azure Marathoner !!
 
 ## Projects and Proof of Concepts for learning Azure 
 ### Areas of Focus:
