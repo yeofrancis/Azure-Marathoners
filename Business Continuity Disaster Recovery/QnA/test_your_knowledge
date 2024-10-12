@@ -1,0 +1,64 @@
+Here are 10 practice questions to reinforce your understanding of Azure Business Continuity and Disaster Recovery (BCDR) concepts, 
+based on the scenarios and answers we have reviewed:
+
+1. **You are using Azure SQL Database and need to ensure automatic failover with zero data loss in case of a region failure. Which feature should you use?**
+   - A. Geo-restore
+   - B. Active geo-replication
+   - C. Auto-failover groups
+   - D. Read replicas
+
+2. **You are tasked with minimizing downtime for an Azure Database for PostgreSQL instance in case of regional failure. What should you implement?**
+   - A. Backup
+   - B. Geo-redundant storage
+   - C. Read replica
+   - D. Snapshot replication
+
+3. **You are using Azure SQL Managed Instance. How can you implement cross-region disaster recovery with a 1-hour RTO?**
+   - A. Standard geo-replication
+   - B. Auto-failover groups
+   - C. Always Encrypted
+   - D. Active geo-replication
+
+4. **For Azure SQL Database, which of the following provides multiple secondary read-only replicas in different regions?**
+   - A. Auto-failover groups
+   - B. Active geo-replication
+   - C. Log shipping
+   - D. Zone redundancy
+
+5. **You need to ensure the encryption of specific PII columns in an Azure SQL Database. Which encryption method should you choose?**
+   - A. Always Encrypted
+   - B. Transparent Data Encryption (TDE)
+   - C. SSL/TLS
+   - D. Geo-replication
+
+6. **To implement a business continuity plan for Azure Database for MySQL and minimize downtime during a failover, which of the following is the best approach?**
+   - A. Log shipping
+   - B. Backup to Azure Premium Storage
+   - C. Geo-redundant backup
+   - D. Create a read replica
+
+7. **Your Azure SQL Database must scale automatically during high-demand periods while maintaining availability in case of a datacenter failure. What service tier should you use?**
+   - A. Hyperscale
+   - B. Business Critical
+   - C. General Purpose with Serverless
+   - D. Standard tier with Geo-redundancy
+
+8. **Which feature provides fast recovery (less than 60 seconds RTO) between primary and secondary Azure SQL Database instances?**
+   - A. Active geo-replication
+   - B. Auto-failover groups
+   - C. Log shipping
+   - D. Backup and restore
+
+9. **To ensure your database can handle failover to a paired region with minimal manual intervention, which feature should you implement?**
+   - A. Active geo-replication
+   - B. Auto-failover groups
+   - C. Azure Migrate
+   - D. Geo-redundant backups
+
+10. **You are tasked with migrating an on-premises SQL Server Always On availability group to Azure SQL Managed Instance while minimizing downtime. What migration strategy should you choose?**
+    - A. Distributed availability groups
+    - B. Log shipping
+    - C. Azure Site Recovery
+    - D. Active geo-replication
+
+These This questions should help reinforce key concepts in Azure BCDR.
