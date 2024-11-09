@@ -4,4 +4,7 @@ Frontend
 - contain the website.
 - main.js contains the visitor counter code.
 
+Backend
+- contain CosmosDB data 
+
 
