@@ -9,3 +9,7 @@
 
 
 Use Terraform or az cli to create these. 
+
+Architecture of the Virtual Networks and Subnets
+
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/9c5a5f42-25ec-4afc-a7d2-b91fb33e5a09" />
