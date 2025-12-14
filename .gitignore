@@ -1,0 +1,35 @@
+# Terraform state & cache
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+
+# Terraform plans & local artifacts
+*.tfplan
+tfplan*
+tf_outputs.json
+tfstate.json
+
+# SSH keys / local secrets
+*.pem
+*.key
+keys/
+# local path on your machine (safe to list) - won't match remote paths
+~/.ssh/az-netlab-key
+
+# OS / editor junk
+.DS_Store
+.vscode/
+Thumbs.db
+
+# Temp files
+*.log
+*.tmp
+*.bak
+Azure-Marathoners.sln
+azure-resume/
+Serverless/
+Networking/Labs/01_VirtualNetwork_and_Peering/
+
+Networking/Labs/02_VNet_and_Subnet_with_VM_ssh/netlab-terraform-session1/evidence_private/
