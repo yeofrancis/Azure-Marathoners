@@ -1,0 +1,6 @@
+azureuser@netlab-vm:~$ ip route
+default via <REDACTED_IP> dev eth0 proto dhcp src <REDACTED_IP> metric 100
+<REDACTED_IP>/24 dev eth0 proto kernel scope link src <REDACTED_IP> metric 100
+<REDACTED_IP> dev eth0 proto dhcp scope link src <REDACTED_IP> metric 100
+<REDACTED_IP> via <REDACTED_IP> dev eth0 proto dhcp src <REDACTED_IP> metric 100
+<REDACTED_IP> via <REDACTED_IP> dev eth0 proto dhcp src <REDACTED_IP> metric 100

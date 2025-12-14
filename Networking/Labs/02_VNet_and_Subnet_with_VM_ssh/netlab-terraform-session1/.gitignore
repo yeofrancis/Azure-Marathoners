@@ -1,0 +1,7 @@
+# local terraform cache for this lab only
+*.log
+lab.tfvars
+*.tfplan
+.terraform/
+evidence/Networking/Labs/02_VNet_and_Subnet_with_VM_ssh/netlab-terraform-session1/evidence_private/
+.tfstate
